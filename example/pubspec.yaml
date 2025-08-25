@@ -2,7 +2,7 @@ name: barcode_finder_example
 description: Demonstrates how to use the barcode_finder plugin.
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
