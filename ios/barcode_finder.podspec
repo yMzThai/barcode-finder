@@ -21,6 +21,6 @@ A new flutter plugin project.
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES', 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386' }
   s.swift_version = '5.0'
   s.dependency 'GoogleMLKit/BarcodeScanning', '>= 8.0.0'
-  s.dependency 'ATBarSDK', '~> 1.4.1'
+ # s.dependency 'ATBarSDK', '~> 1.4.1'
   s.dependency 'ZXingObjC', '~> 3.6.9'
 end
